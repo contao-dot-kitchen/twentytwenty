@@ -55,10 +55,10 @@ class ContentTwentyTwenty extends \ContentElement
 
 			$this->Template->After = $objImage;
 
-			$GLOBALS['TL_JQUERY']['eventmove']          = '<script src="/system/modules/twentytwenty/assets/js/jquery.event.move.js"></script>';
-			$GLOBALS['TL_JQUERY']['twentytwenty']       = '<script src="/system/modules/twentytwenty/assets/js/jquery.twentytwenty.js"></script>';
+			$GLOBALS['TL_JQUERY']['eventmove']          = '<script src="system/modules/twentytwenty/assets/js/jquery.event.move.js"></script>';
+			$GLOBALS['TL_JQUERY']['twentytwenty']       = '<script src="system/modules/twentytwenty/assets/js/jquery.twentytwenty.js"></script>';
 			$GLOBALS['TL_JQUERY']['twentytwenty_load']  = '<script>$(window).load(function(){$(".twentytwenty-container[data-orientation!=\'vertical\']").twentytwenty({default_offset_pct: 0.7});$(".twentytwenty-container[data-orientation=\'vertical\']").twentytwenty({default_offset_pct: 0.3, orientation: \'vertical\'});});</script>';
-			$GLOBALS['TL_CSS']['twentytwenty']          = '/system/modules/twentytwenty/assets/css/twentytwenty.css';
+			$GLOBALS['TL_CSS']['twentytwenty']          = 'system/modules/twentytwenty/assets/css/twentytwenty.css';
 		}
 	}
 }
