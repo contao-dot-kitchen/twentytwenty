@@ -3,10 +3,10 @@
 <?php $this->block('content'); ?>
 
 <div class="afterbefore-container" id="twentytwenty-id<?=$this->id; ?>">
-    <div style="width: <?=$this->Before->arrSize[0]; ?>px;" class="twentytwenty-container" data-orientation="horizontal">
-	<img src="<?= $this->Before->src; ?>" <?= $this->Before->imgSize; ?>>
-	<img src="<?= $this->After->src; ?>" <?= $this->After->imgSize; ?>>
+    <div style="width: <?=$this->Before->arrSize[0]; ?>px;"  class="twentytwenty-container" data-orientation="horizontal">
+	<?php $this->insert('picture_default', $this->Before->picture); ?>
+	<?php $this->insert('picture_default', $this->After->picture); ?>
     </div>
-<div>
+</div>
 
 <?php $this->endblock(); ?>
