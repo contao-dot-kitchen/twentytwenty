@@ -1,0 +1,35 @@
+{
+	"name":"sascha-brandhoff/twentytwenty",
+	"description":"Allows you to visual differences between two images",
+	"keywords":["contao","images", "jquery", "differences"],
+	"type":"contao-module",
+	"homepage":"",
+	"license":"LGPLv3",
+	"authors":[
+		{
+			"name":"Sascha Brandhoff",
+			"email":"sascha.brandhoff@gmail.com",
+			"homepage":"https://www.paypal.me/pixelSpreadde",
+			"role":"Developer"
+		}
+	],
+	"support":{
+		"email":"sascha.brandhoff@gmail.com",
+		"issues":"https://github.com/Sascha-Brandhoff/twentytwenty/issues",
+		"source":"https://github.com/Sascha-Brandhoff/twentytwenty"
+	},
+	"require":{
+		"php":">=5.3",
+		"contao/core": ">=3.4,<3.5"
+	},
+	"replace":{
+		"sascha-brandhoff/twentytwenty":"self.version"
+	},
+	"extra":{
+		"contao":{
+			"sources":{
+				"":"system/modules/flip_ce"
+			}
+		}
+	}
+}
