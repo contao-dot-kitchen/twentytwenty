@@ -1,18 +1,26 @@
-# TwentyTwenty #
+# twentytwenty
 
-TwentyTwenty ist eine Contao Erweiterung die unterschiede zwischen zwei Bildern aufzeigt. Durch einen Slider sieht man den Vorher- / Nachher-Effekt.
+twentytwenty ist ein Contao-Frontend-Modul welches die Unterschiede zwischen zwei Bildern aufzeigt. Durch einen Slider sieht man den Vorher- / Nachher-Effekt.
 
-## Contao Erweiterungen von pixelSpread.de ##
+## Demo
 
-Wenn Sie individuelle Contao Erweiterungen brauchen werden wir gerne für Sie tätig. Schreiben Sie uns eine E-Mail an hallo@pixelSpread.de oder rufen Sie uns an! Wir freuen uns auf Ihre Nachricht.
+Leider gibt es für dieses Modul noch keine Demo. Das wird aber noch geändert. Bis dahin probiere es doch einfach aus. 
 
-## Wie Sie uns kontaktieren können ##
+## Lizenz
 
-Gerne helfen wir Ihnen in allen Fragen rund um Contao. Dazu rufen Sie uns doch einfach an oder senden Sie uns eine E-Mail. Unsere Kontaktdaten gibt es hier.
+Dieses Modul ist genau wie Contao unter der LGPLv3 lizensiert. Weitere Informationen findest Du unter nachfolgendem Link: http://www.gnu.org/licenses/lgpl-3.0.de.html
 
-pixelSpread.de | print . design . entwicklung
-Sascha Brandhoff
+Die Rechte an den genutzten jQuery- und Javascript-Libarys sowie weiterem Fremdcode sind als solche gekennzeichnet und unterliegen den Rechten der jeweiligen Eigentümer!
 
-Web:   http://www.pixelSpread.de
-eMail: hallo@pixelSpread.de
-Phone: 0641-35099863
+## Spenden
+
+Ich würde mich über eine geringfügige finanzielle Zuwendung freuen den meine Zeit ist auch begrenzt. Während ich freie Module entwickel kann ich leider kein Geld für Brötchen verdienen und Du verdient vielleicht gerade mit meinem Modul Geld. Deshalb darfst Du mir auch eine Kleinigkeit abgeben! Ich danke Dir ganz herzlich dafür. Folge dem Link zu Paypal oder sprich mich nach meiner Bankverbindung an.
+
+https://www.paypal.me/pixelSpreadde
+
+## Kontakt
+
+Sascha Brandhoff<br>
+Telefon: 0152-27676083<br>
+E-Mail: sascha.brandhoff@gmail.com<br>
+Twitter: @saschabrandhoff
