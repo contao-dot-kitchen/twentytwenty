@@ -28,7 +28,7 @@
 	"extra":{
 		"contao":{
 			"sources":{
-				"":"system/modules/flip_ce"
+				"":"system/modules/twentytwenty"
 			}
 		}
 	}
