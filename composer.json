@@ -3,7 +3,7 @@
 	"description":"Allows you to visual differences between two images",
 	"keywords":["contao","images", "jquery", "differences"],
 	"type":"contao-module",
-	"homepage":"",
+	"homepage":"http://www.pixelspread.de/contao-modules/",
 	"license":"LGPLv3",
 	"authors":[
 		{
