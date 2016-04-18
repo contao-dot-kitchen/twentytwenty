@@ -1,3 +1,9 @@
+
+.twentytwenty-container {
+    max-width:100%;
+    margin:0 auto;
+}
+
 .twentytwenty-horizontal .twentytwenty-handle:before, .twentytwenty-horizontal .twentytwenty-handle:after, .twentytwenty-vertical .twentytwenty-handle:before, .twentytwenty-vertical .twentytwenty-handle:after {
   content: " ";
   display: block;
